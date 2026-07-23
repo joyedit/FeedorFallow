@@ -1,0 +1,11 @@
+{
+	"_comment": "FAST TEST CONFIG. Copy to ~/.config/VintagestoryData/ModConfig/feedorfallow.json, then restart the world. Restore/delete it when done. GraceHours 0.02 = ~1.2 in-game minutes; with the calendar cranked an animal starves in seconds. MinGeneration 0 = even wild herds are affected, so no spawning needed.",
+	"GraceHours": 0.02,
+	"DamageIntervalHours": 0.01,
+	"DamagePerInterval": 1000,
+	"MinGeneration": 0,
+	"ConsumeFedItem": true,
+	"GrazingCountsAsFeeding": false,
+	"ExemptBabyCodeParts": [ "lamb", "chick", "piglet", "calf", "baby", "cub", "kid" ],
+	"CheckIntervalSeconds": 1
+}

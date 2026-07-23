@@ -1,0 +1,9 @@
+[
+	{
+		"op": "add",
+		"path": "/server/behaviors/-",
+		"value": { "code": "feedorfallow" },
+		"file": "game:entities/animal/bird/chicken-adult.json",
+		"side": "Server"
+	}
+]

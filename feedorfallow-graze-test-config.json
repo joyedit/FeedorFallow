@@ -1,0 +1,11 @@
+{
+	"_comment": "GRAZING TEST CONFIG (v2). GrazingCountsAsFeeding is ON. GraceHours 24 is well above the sheep graze cooldown (1-4 in-game hours) so a sheep with forage is guaranteed a chance to graze and reset its clock before starving. Expected result: a sheep on grass/tallgrass survives indefinitely (you'll see it graze); a sheep walled onto barren stone/dirt with no forage starves at ~24 in-game hours.",
+	"GraceHours": 24,
+	"DamageIntervalHours": 1,
+	"DamagePerInterval": 1000,
+	"MinGeneration": 0,
+	"ConsumeFedItem": true,
+	"GrazingCountsAsFeeding": true,
+	"ExemptBabyCodeParts": [ "lamb", "chick", "piglet", "calf", "baby", "cub", "kid" ],
+	"CheckIntervalSeconds": 1
+}
