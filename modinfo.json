@@ -2,7 +2,7 @@
 	"type": "code",
 	"modid": "feedorfallow",
 	"name": "Feed or Fallow",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "Domesticated and tamed animals grow hungry and will starve to death if you don't feed them. Keep your livestock fed, or let your pens fall fallow. For 1.22.*",
 	"authors": [ "Feyd" ],
 	"side": "Server",
